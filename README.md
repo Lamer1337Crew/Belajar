@@ -7,7 +7,7 @@ Cara mencoba:
 =======
 
 1. Copy folder ini ke root direktori web server anda.
-2. restore database yang ada di folder db.
+2. restore db.sql
 3. ubahlah koneksi.php
 4. Siap dijalankan
 
