@@ -14,3 +14,4 @@ Cara mencoba:
 Reference (tutorial)
 1. http://www.jqapi.com  	(Jquery) 
 	download zip archive dan install di web server anda.
+2. http://kopiae.blogspot.com (ATM)
